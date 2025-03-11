@@ -3,7 +3,7 @@
 title: Mahalakshmi
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Mahalakshmi
@@ -11,7 +11,7 @@ last_name:
 
 # Status emoji
 status:
-  icon: 👩🏻‍💻
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I specialize in enterprise-level applications using Java, Spring Boot, and Python. From developing virtual camera libraries with TensorFlow to automating data extraction, my focus has always been on efficiency and client satisfaction. Certified by Meta, AWS, and Oracle, I have strong expertise in cloud infrastructure, DevOps, and database management, particularly with AWS, SQL, and MongoDB. I thrive on troubleshooting complex issues and driving projects to success.
